@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "typeahead.js": "~0.10.4",
-    "ember": "~1.6.0"
+    "ember": "~2.5.1"
   }
 }
